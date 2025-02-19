@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ervilia (L.), Ervum, or better known simply as either 'Ervum' or 'Ervy'!
+# 👋 Hi, I'm Ervilia (L.), Ervum!
 - 🔭 I’m currently working on Lua, C++, Next.js and Laravel projects.
 - 📫 Bussiness E-Mail: eervuml@gmail.com
 
