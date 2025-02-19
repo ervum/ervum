@@ -3,4 +3,4 @@
 - 📫 Bussiness E-Mail: eervuml@gmail.com
 
 ## 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ervum&show_icons=true&theme=dark)
